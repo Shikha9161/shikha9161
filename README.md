@@ -1,6 +1,6 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/s1600/Android%20Devs%20Banner%20.png" alt="Banner Image">
 <h1 align="center">Hi 👋, I'm Shikha Kushwaha</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Mobile Application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikha9161&label=Profile%20views&color=0e75b6&style=flat" alt="shikha9161" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js REST API**
 
-- 💬 Ask me about **Android, Flutter, Node.js, Express.js, Mongoose, Java, Kotlin**
+- 💬 Ask me about **Android, Flutter, Node.js, Express.js, Java**
 
 - 📫 How to reach me **shikhakushwaha0912@gmail.com**
 
